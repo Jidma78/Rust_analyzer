@@ -1,5 +1,5 @@
 # Rustine Analyzer
-Lexical, syntactic, and semantic analyzer for a Rust subset, developed as part of a assembly project.
+Lexical, syntactic and semantic analyzer for a Rust subset, developed as part of a assembly project.
 
 ## Description
 This project implements a full pipeline for parsing a simplified Rust-like language called Rustine. It includes:
